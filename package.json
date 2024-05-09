@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/async": "^3.2.24",
-    "async": "^3.2.5"
+    "async": "^3.2.5",
+    "cheerio": "^1.0.0-rc.12"
   }
 }
